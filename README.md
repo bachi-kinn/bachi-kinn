@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f7d541c8-e805-40d0-a490-a8b86ccbdd80"width="50%"> 
+  <img src="https://github.com/user-attachments/assets/388a1847-5334-48e9-b0db-5a2e3c4f19ba"width="50%"> 
 </p>
 
 
-$$\color{pink}\text{sigkin my beloved}$$
+$$\color{pink}\text{im always at party r dock}$$
 
