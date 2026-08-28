@@ -8,7 +8,7 @@
 </p>
 
 
-$$\color{pink}\text{im always at party r dock}$$
+$$\color{pink}\text{im always at party n dock}$$
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd692843-39af-4814-b021-f0c6760da50f"width="100%"> 
