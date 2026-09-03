@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9acab61d-8d03-40f7-a06d-e809b390de8c"width="100%"> 
-</p>
 
 
 <p align="center">
@@ -8,9 +5,5 @@
 </p>
 
 
-$$\color{pink}\text{im always at party n dock}$$
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fd692843-39af-4814-b021-f0c6760da50f"width="100%"> 
-</p>
+$$\color{grey}\text{yo}$$
 
