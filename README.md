@@ -1,9 +1,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/388a1847-5334-48e9-b0db-5a2e3c4f19ba"width="50%"> 
+  <img src="https://github.com/user-attachments/assets/691149d8-02c1-46c1-b281-461afadb1c63"width="3%"> 
 </p>
 
 
-$$\color{grey}\text{yo}$$
+$$\color{grey}\text{ .  ˚}$$
 
